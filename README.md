@@ -1,7 +1,7 @@
 # Testing
 
-
-https://teams.microsoft.com/l/meetup-join/19:meeting_NzMzZDkxZDgtZWE1OS00Y2UwLWIxY2ItZjRiZDdmNDFkZmFi@thread.v2/0?context=%7B%22Tid%22:%2221f25632-7ab8-4714-8918-0a227d8809b3%22,%22Oid%22:%22fdefd84a-3cd6-4a37-b34b-3fb87e2f7d4e%22%7D
+Mar 1st:
+https://teams.microsoft.com/l/meetup-join/19:meeting_ZTJmYTU2ZTktMTAyZS00M2JjLWExM2MtNmY3MmViYTY1N2Y0@thread.v2/0?context=%7B%22Tid%22:%2221f25632-7ab8-4714-8918-0a227d8809b3%22,%22Oid%22:%22fdefd84a-3cd6-4a37-b34b-3fb87e2f7d4e%22%7D
 
 
 graphql-java Blog & Site:
